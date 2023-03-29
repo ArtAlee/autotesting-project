@@ -1,8 +1,4 @@
 # Автотесты для Selenium на языке Python сайта Home.Mephi.ru
-Используйте VPN:
-<p> <a href="https://it.mephi.ru/vpn" target="_blank">Ссылка на VPN</a></p>
-
-
 ###Установить зависимости:
 ```bash
 pip install -r requirements.txt
